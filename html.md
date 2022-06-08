@@ -9,9 +9,9 @@ Lembretes e comandos HTML CSS
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h2 title="eu apareço se vc passar o mouse por cima do texto" id="titulo">Eu sou o titulo principal</h2>
+        <h1 title="eu apareço se vc passar o mouse por cima do texto" id="titulo">Eu sou o titulo principal</h1>
        
-        <h3>Eu sou o subtitulo e assim por diante :p</h3>
+        <h2>Eu sou o subtitulo e assim por diante :p</h2>
 
         <div title="eu apareço se vc passar o mouse por cima do texto">
             Eu sou um bloco de conteudo diverso ;D la la la la la la la la la la la la la la la la la la la la la la la la la la la la 
