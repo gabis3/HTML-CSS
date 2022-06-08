@@ -1,4 +1,4 @@
-# HTML-CSS
+# HTML
 Lembretes e comandos HTML CSS
 
 <!DOCTYPE html>
@@ -87,4 +87,35 @@ Lembretes e comandos HTML CSS
 </html>
 
 
+# CSS
+
+/*comentario*/
+
+body { background-color: rgb(236, 236, 236);}
+
+ .uu, .oi {
+     background-color: white;
+     border: 1px solid red;
+ }
+
+ input[readonly] {
+     width: 60px;
+     color: red;
+ }
+
+ input:disabled {
+     width: 80px;
+ }
+
+ a:active[href*="pp" i], div:active {
+     color: rgb(43, 226, 76);
+ }
+
+ input:checked + span {
+     color: coral;
+ }
+
+ input:hover, p:hover {
+     color: rgb(214, 131, 255);
+ }
 
